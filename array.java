@@ -3,6 +3,10 @@ public class array {
 
         int nums[] = {2,7,3,8};
 
-        System.out.println(nums[0]);
+        for( int i=0 ; i<4 ; i++)
+             {
+            System.out.println(nums[i]);
+        }
     }
 }
+
